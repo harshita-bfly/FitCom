@@ -62,6 +62,8 @@ Technologies used in the project:
 
 
 
-<h3>📫 How to reach us? fitcom021@gmail.com </h3>
+<h3>📫 How to reach us? 
+
+* fitcom021@gmail.com </h3>
 
 
