@@ -31,6 +31,7 @@ Here're some of the project's best features:
 *  Promoting Sustainable Commute
 *  Vehicle Detection
 *  Carbon Footprint Calculator
+*  Mountain peak
 *  Leaderboard
 *  Rewards
 
