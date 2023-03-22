@@ -43,7 +43,6 @@ Here're some of the project's best features:
 https://user-images.githubusercontent.com/98217912/218312483-8925acd7-513c-4e21-8e47-4ec75fbc5a91.mp4
 
  
- 
 <h2>💻 Built with</h2>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,9 +57,16 @@ Technologies used in the project:
 *   webpack
 *   Tailwind CSS
  
+<h2>📲 Screenshots of the Web App</h2>
 
-
-
+![Screenshot (2655)](https://user-images.githubusercontent.com/97434896/222970912-459c1051-9538-4de2-b94c-feff38f1e908.png)
+![Screenshot (2656)](https://user-images.githubusercontent.com/97434896/222970924-72054abc-a33a-49b2-a919-e80e3e42c282.png)
+![Screenshot (2659)](https://user-images.githubusercontent.com/97434896/222970934-d25e036f-d011-435d-92fe-c0fda83c8f7e.png)
+![Screenshot (2658)](https://user-images.githubusercontent.com/97434896/222970946-3888f6cb-1e2c-4ee3-a689-86c8e55d95b5.png)
+![Screenshot (2660)](https://user-images.githubusercontent.com/97434896/222970950-7eba5065-14fe-4531-9dd5-9348fcad3176.png)
+![Screenshot (2661)](https://user-images.githubusercontent.com/97434896/222970959-cd269f7a-c8c2-432e-9054-22c61f4083be.png)
+![Screenshot (2663)](https://user-images.githubusercontent.com/97434896/222970974-766c357c-a66e-47c7-87fd-19514bf17c07.png)
+![Screenshot (2662)](https://user-images.githubusercontent.com/97434896/222970985-8daa5094-5cfb-4f4d-868f-c5f8a9bc7053.png)
 
 <h3>📫 How to reach us? 
 
