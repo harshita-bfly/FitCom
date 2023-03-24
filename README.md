@@ -8,7 +8,7 @@
 <h2> Our Problem Statement </h2>
 <p id="description">
  Our idea is based on the problem statement of “commuting smarter with reduced carbon footprint and better user experience”. We are focussing on enriching travel experiences and reducing carbon emissions released from road transportation by gamifying the journey of daily commuters. Our app wants to motivate people who tend to use personal conveyance to switch to public means of transport. Just Imagine the time, energy, money, and lives we can save just by diverting people to public transport. Our app will also achieve sustainable development goals.
-Sdg13, SDG 3, and SDG 11
+Sdg 3,SDG 11, and SDG 13.
 </p>
 
 <h2> How we came up with this? </h2>
