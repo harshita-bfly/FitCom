@@ -53,8 +53,9 @@ Technologies used in the project:
 *   CSS
 *   HTML
 *   JavaScript
+*   Bootstrap
 *   Firebase
-*   webpack
+*   Web pack
 *   Tailwind CSS
  
 <h2>📲 Screenshots of the Web App</h2>
