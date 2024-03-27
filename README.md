@@ -57,6 +57,7 @@ Technologies used in the project:
 *   Firebase
 *   Web pack
 *   Tailwind CSS
+*   HTML5 API and JS leaflet
  
 <h2>📲 Screenshots of the Web App</h2>
 
