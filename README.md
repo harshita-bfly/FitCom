@@ -29,7 +29,7 @@ Here're some of the project's best features:
 *  Gamification
 *  Choose Avatars
 *  Promoting Sustainable Commute
-*  Vehicle Detection
+*  Vehicle Input
 *  Carbon Footprint Calculator
 *  Mountain peak
 *  Leaderboard
@@ -48,16 +48,20 @@ https://user-images.githubusercontent.com/98217912/218312483-8925acd7-513c-4e21-
 <p align="left"> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+
 Technologies used in the project:
 
 *   CSS
 *   HTML
 *   JavaScript
+*   Python
+*   Streamlit
 *   Bootstrap
 *   Firebase
 *   Web pack
 *   Tailwind CSS
 *   HTML5 API and JS leaflet
+
  
 <h2>📲 Screenshots of the Web App</h2>
 
@@ -69,9 +73,12 @@ Technologies used in the project:
 ![Screenshot (2661)](https://user-images.githubusercontent.com/97434896/222970959-cd269f7a-c8c2-432e-9054-22c61f4083be.png)
 ![Screenshot (2663)](https://user-images.githubusercontent.com/97434896/222970974-766c357c-a66e-47c7-87fd-19514bf17c07.png)
 ![Screenshot (2662)](https://user-images.githubusercontent.com/97434896/222970985-8daa5094-5cfb-4f4d-868f-c5f8a9bc7053.png)
+![image](https://github.com/harshita-bfly/FitCom/assets/100403649/997fa5df-ed46-455f-9737-e2102eefce11)
+![image](https://github.com/harshita-bfly/FitCom/assets/100403649/616e3e44-cc9d-40b1-bec2-2d7f7d8fc400)
 
-<h3>📫 How to reach us? 
 
-* fitcom021@gmail.com </h3>
+<!--<h3>📫 How to reach us? 
+
+* fitcom021@gmail.com </h3>-->
 
 
